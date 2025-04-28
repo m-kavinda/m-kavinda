@@ -1,0 +1,39 @@
+- 👋 Hi, I’m @m-kavinda!
+- 
+- 👀 I’m interested in ...
+- 🤖 Machine learning and AI development, 🎮 Indie game design and development, 🌱 Sustainable gardening, 🎸 Playing acoustic guitar, Excited to connect with others who share these passions!
+- 
+- 🌱 I’m currently learning ...
+- 🐍 Advanced Python for data science, ☁️ Cloud computing with AWS, 🎨 UI/UX design principles, 📖 Sinhala language and literature, Always eager to dive deeper into new tools and concepts!
+- 
+- 💞️ I’m looking to collaborate on ...
+- 🌐 Open-source web development projects, 📊 Data visualization and analytics tool, 🎮 Game development with Unity or Godot, 📱 Mobile app development for Android/iOS, Eager to team up on innovative and impactful projects!
+- 
+- 📫 How to reach me ...
+- email:
+- g.y.d.m.kavinda@gmail.com
+- m.y.d.m.kavinda@outlook.com
+- Follow me:
+- X: @m_kaviyaa
+- Instagram: m.r.kaviyaa
+- website:
+- https://g.dev/mrkaviyaa
+- 
+- 😄 Pronouns: ...
+- My name, Kaviyaa, is pronounced as: KAH-vee-yah. Feel free to reach out if you need help saying it! he/him
+- 
+- ⚡ Fun fact: ...
+- I'm a tea enthusiast, My favorite is salted butter tea—it gives me an epic energy boost!
+- 
+- Thanks for Visiting!
+- 
+- I'm excited to connect, collaborate, and share knowledge. Feel free to explore my repositories, reach out for a chat, or drop a ⭐ on projects you like!
+-
+- Happy coding! 🚀
+- 
+- 🖤 Created with love with Sayu! 🖤
+- 
+<!---
+m-kavinda/m-kavinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
