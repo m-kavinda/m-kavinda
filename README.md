@@ -1,35 +1,59 @@
-- 👋 Hi, I’m @m-kavinda!
-- 
-- 👀 I’m interested in ...
-- 🤖 Machine learning and AI development, 🎮 Indie game design and development, 🌱 Sustainable gardening, 🎸 Playing acoustic guitar, Excited to connect with others who share these passions!
-- 
-- 🌱 I’m currently learning ...
-- 🐍 Advanced Python for data science, ☁️ Cloud computing with AWS, 🎨 UI/UX design principles, 📖 Sinhala language and literature, Always eager to dive deeper into new tools and concepts!
-- 
-- 💞️ I’m looking to collaborate on ...
-- 🌐 Open-source web development projects, 📊 Data visualization and analytics tool, 🎮 Game development with Unity or Godot, 📱 Mobile app development for Android/iOS, Eager to team up on innovative and impactful projects!
-- 
-- 📫 How to reach me ...
-- email:
-- g.y.d.m.kavinda@gmail.com
-- m.y.d.m.kavinda@outlook.com
-- Follow me:
-- X: @m_kaviyaa
-- Instagram: m.r.kaviyaa
-- website:
-- https://g.dev/mrkaviyaa
-- 
-- 😄 Pronouns: ...
-- My name, Kaviyaa, is pronounced as: KAH-vee-yah. Feel free to reach out if you need help saying it! he/him
-- 
-- ⚡ Fun fact: ...
-- I'm a tea enthusiast, My favorite is salted butter tea—it gives me an epic energy boost!
-- 
-- Thanks for Visiting!
-- 
-- I'm excited to connect, collaborate, and share knowledge. Feel free to explore my repositories, reach out for a chat, or drop a ⭐ on projects you like!
--
-- Happy coding! 🚀
-- 
-- 🖤 Created with love with Sayu! 🖤
-- 
+# 🖤 Moshan | Shadow Architect
+
+> _“Silence is not empty. It’s full of answers.”_
+
+🎧 Currently vibing to: [Hate or Glory – Gesaffelstein](https://open.spotify.com/track/xyz)  
+📍 Operating from solitude | Android 8.0.0 | CLI & cinematic layers
+
+---
+
+## 🧠 Languages & Databases
+`Python` `JavaScript` `Kotlin` `Shell`  
+`SQLite` `Firebase` `Pixabay API` `Unsplash API`
+
+---
+
+## 🛠️ Tools & IDEs
+`Neovim` `Termux` `VS Code` `Android Studio`  
+`GIMP` `Figma` `Affinity`  
+`Git` `CMake` `Material Design`
+
+---
+
+## 🌐 Services
+`GitHub Actions` `Cloudflare` `Firebase`  
+`Google Cloud` `Pixabay` `Unsplash`
+
+---
+
+## 💻 Systems
+`Android 8.0.0` (optimized)  
+`Fedora` `GNOME` `Windows (minimal setup)`
+
+---
+
+## 🧩 Hardware
+`Xiaomi POCO F5`  
+`Samsung Tab S6 Lite`  
+`AMD Ryzen` `NVIDIA RTX`  
+`LG UltraGear` `Dell UltraSharp`
+
+---
+
+## 🖼️ Projects (Pinned)
+- 🌸 **Shadow-Bouquet-3D** – cinematic flower render with green tones  
+- 🧩 **Pixabay-CLI** – image search via API with poetic overlays  
+- 🐚 **BootMessage-Shadow** – custom CLI boot messages with mood triggers  
+- 🧠 **MinimalMind** – stripped UI launcher with emotional resonance
+
+---
+
+## 🕶️ Philosophy
+> _“I don’t build apps. I build moods.”_  
+> _“Every pixel must earn its place.”_
+
+---
+
+## 📫 Connect
+Feel free to fork, remix, or just observe in silence.  
+No stars needed—just resonance.
