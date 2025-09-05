@@ -48,6 +48,17 @@
 
 ---
 
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&redirect=true)
+
+![Spotify](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg)  
+
+![X](https://x.com/m_kaviyaa)  
+![GitHub](https://github.com/m-kavinda)  
+![TikTok](https://www.tiktok.com/@m_kaviyaa)  
+![Instagram](https://www.instagram.com/m.r.kaviyaa/)  
+![Facebook](https://www.facebook.com/m.r.kaviyaa/)  
+![YouTube](https://youtube.com/@mr-kaviyaa)
+
 ## 🕶️ Philosophy
 > _“I don’t build apps. I build moods.”_  
 > _“Every pixel must earn its place.”_
