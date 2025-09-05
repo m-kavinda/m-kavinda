@@ -1,57 +1,9 @@
-# 🖤 Moshan | Shadow Architect
+[![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
-> _“Silence is not empty. It’s full of answers.”_
+[![Now Playing on YouTube](https://img.youtube.com/vi/syoslCy-q1o/hqdefault.jpg)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
-🎧 Currently vibing to: [Hate or Glory – Gesaffelstein](https://open.spotify.com/track/xyz)  
-📍 Operating from solitude | Android 8.0.0 | CLI & cinematic layers
 
----
-
-## 🧠 Languages & Databases
-`Python` `JavaScript` `Kotlin` `Shell`  
-`SQLite` `Firebase` `Pixabay API` `Unsplash API`
-
----
-
-## 🛠️ Tools & IDEs
-`Neovim` `Termux` `VS Code` `Android Studio`  
-`GIMP` `Figma` `Affinity`  
-`Git` `CMake` `Material Design`
-
----
-
-## 🌐 Services
-`GitHub Actions` `Cloudflare` `Firebase`  
-`Google Cloud` `Pixabay` `Unsplash`
-
----
-
-## 💻 Systems
-`Android 8.0.0` (optimized)  
-`Fedora` `GNOME` `Windows (minimal setup)`
-
----
-
-## 🧩 Hardware
-`Xiaomi POCO F5`  
-`Samsung Tab S6 Lite`  
-`AMD Ryzen` `NVIDIA RTX`  
-`LG UltraGear` `Dell UltraSharp`
-
----
-
-## 🖼️ Projects (Pinned)
-- 🌸 **Shadow-Bouquet-3D** – cinematic flower render with green tones  
-- 🧩 **Pixabay-CLI** – image search via API with poetic overlays  
-- 🐚 **BootMessage-Shadow** – custom CLI boot messages with mood triggers  
-- 🧠 **MinimalMind** – stripped UI launcher with emotional resonance
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=1ed760&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&redirect=true)
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg) 
-[![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/WSTxda)  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg)  
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mkaviyaa) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-kavinda)  
 [![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mkaviyaa) 
@@ -95,17 +47,6 @@
 
 </details>
 
-<details>
-  <summary>Hardwares</summary>
-ㅤ
-
-[![LG](https://img.shields.io/badge/lg%20ultragear-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)](https://www.lg.com/) [![Dell](https://img.shields.io/badge/dell%20ultrasharp-007DB8?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/) [![AMD](https://img.shields.io/badge/AMD%20Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/) [![NVidia](https://img.shields.io/badge/NVIDIA%20RTX%204090-7bbb08?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
-
-[![Xiaomi](https://img.shields.io/badge/Xiaomi%20POCO_F5-%23ff6e08.svg?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/) [![Apple](https://img.shields.io/badge/Apple%20iPhone%2013-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone/)
-
-[![Samsung](https://img.shields.io/badge/Samsung%20Tab_S6_Lite-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/)
-
-</details>
 
 
 ## 🕶️ Philosophy
