@@ -1,3 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Music Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .music-player {
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+        }
+        .thumbnail img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+        .equalizer {
+            display: flex;
+            justify-content: center;
+            height: 30px;
+        }
+        .bar {
+            width: 4px;
+            margin: 0 2px;
+            background-color: #3498db;
+            animation: equalize 1.5s infinite linear;
+        }
+        .bar:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        .bar:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+        @keyframes equalize {
+            0% {
+                height: 5px;
+            }
+            50% {
+                height: 25px;
+            }
+            100% {
+                height: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="music-player">
+        <div class="thumbnail">
+            <img src="https://img.youtube.com/vi/iBlpUYogVTw/hqdefault.jpg" alt="Music Thumbnail">
+        </div>
+        <h2>Song Title</h2>
+        <div class="equalizer">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+    </div>
+</body>
+</html>
 
 [![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
