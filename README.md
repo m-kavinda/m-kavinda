@@ -41,8 +41,9 @@
 
 
 <details>
-  <summary>Languages & Databases</summary>
-  <p align="center">
+  <summary>Languages & Database</summary>
+
+<div align="center">
 
 [![Go](https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) 
@@ -54,9 +55,8 @@
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![SQLite](https://img.shields.io/badge/sqlite-%2308425c.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-  </p>
+</div>
 </details>
-
 
 <div align="center">
 
