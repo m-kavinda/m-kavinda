@@ -1,6 +1,5 @@
 ![GitHub Logo](icons8-github-100.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true)
