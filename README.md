@@ -4,15 +4,6 @@
 
 
 <p align="center">
-  <img src="dp.png" width="150" style="border-radius:50%;">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Ubuntu+Mono&size=20&color=FFFFFF&center=true&width=350&duration=10000" alt="Animated White Text"/>
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
 </p>
 
@@ -95,3 +86,8 @@ Feel free to fork, remix, or just observe in silence.
 No stars needed—just resonance.
 
 </div>
+
+
+<p align="center">
+  <img src="dp.png" width="150" style="border-radius:50%;">
+</p>
