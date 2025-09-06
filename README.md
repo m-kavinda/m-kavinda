@@ -1,3 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Music Player</title>
+  <style>
+    body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background: #f0f0f0; font-family: Arial, sans-serif; }
+    .player { background: #333; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.3); text-align: center; color: white; }
+    .progress-bar { width: 100%; height: 5px; background: #555; border-radius: 5px; margin: 10px 0; overflow: hidden; }
+    .progress { width: 0; height: 100%; background: #ff0000; transition: width 0.1s linear; }
+    .controls button { background: #ff0000; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; color: white; cursor: pointer; transition: transform 0.2s; }
+    .controls button:hover { transform: scale(1.1); }
+    #player { display: none; }
+    .volume { margin: 10px 0; }
+  </style>
+</head>
+<body>
+  <div class="player">
+    <h2 id="track-title">YouTube Music Player</h2>
+    <div id="player"></div>
+    <div class="progress-bar"><div class="progress" id="progress"></div></div>
+    <div class="controls">
+      <button onclick="playPause()">Play/Pause</button>
+      <button onclick="restart()">Restart</button>
+    </div>
+    <div class="volume">
+      <label for="volume">Volume:</label>
+      <input type="range" id="volume" min="0" max="100" value="100" onchange="setVolume(this.value)">
+    </div>
+  </div>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script>
+    let player;
+    function onYouTubeIframeAPIReady() {
+      player = new YT.Player('player', {
+        height: '0',
+        width: '0',
+        videoId: 'iBlpUYogVTw',
+        playerVars: { 'autoplay': 0, 'controls': 0 },
+        events: {
+          'onReady': onPlayerReady,
+          'onStateChange': onPlayerStateChange
+        }
+      });
+    }
+    function onPlayerReady(event) {
+      document.getElementById('track-title').textContent = 'Loading title...';
+      // YouTube Data API එකෙන් title එක ගන්න පුළුවන් (API key එකක් ඕන)
+    }
+    function onPlayerStateChange(event) {
+      if (event.data == YT.PlayerState.PLAYING) {
+        updateProgress();
+      }
+    }
+    function playPause() {
+      if (player.getPlayerState() == 1) {
+        player.pauseVideo();
+      } else {
+        player.playVideo();
+      }
+    }
+    function restart() {
+      player.seekTo(0);
+      player.playVideo();
+    }
+    function setVolume(value) {
+      player.setVolume(value);
+    }
+    function updateProgress() {
+      const progress = document.getElementById('progress');
+      const duration = player.getDuration();
+      const update = () => {
+        if (player.getPlayerState() == 1) {
+          const currentTime = player.getCurrentTime();
+          const percent = (currentTime / duration) * 100;
+          progress.style.width = percent + '%';
+          requestAnimationFrame(update);
+        }
+      };
+      requestAnimationFrame(update);
+    }
+  </script>
+</body>
+</html>
+
 [![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
 [![Now Playing](https://img.youtube.com/vi/iBlpUYogVTw/hqdefault.jpg)](https://www.youtube.com/watch?v=iBlpUYogVTw)
