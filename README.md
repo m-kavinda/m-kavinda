@@ -1,4 +1,4 @@
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1G260bhz0MjUEZFTEQYchw" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+[🎵 Listen to my favorite track](https://open.spotify.com/track/1G260bhz0MjUEZFTEQYchw?si=IwzUtPhcRdGMqoFBNUc33w)
 
 [![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
