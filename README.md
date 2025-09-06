@@ -16,7 +16,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡&font=Fira+Code&size=24&color=00FF00&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&lines=ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡)
 
 
 
