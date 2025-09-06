@@ -7,7 +7,7 @@
        height="270"/>
 </a>
 
-🎧
+
 
 [![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/mrkaviyaa)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg)  
