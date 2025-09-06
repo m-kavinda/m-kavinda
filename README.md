@@ -68,6 +68,13 @@
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/m-kavinda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="display:inline-block;margin:0;" alt="GitHub"/></a>
+  <a href="https://x.com/mkaviyaa"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;margin:0;" alt="X"/></a>
+  <a href="https://www.instagram.com/m.r.kaviyaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block;margin:0;" alt="Instagram"/></a>
+</p>
+
+
 
 
 <div align="center">
