@@ -41,7 +41,7 @@
 
 
 <p align="center"><details>
-  <summary>ㅤㅤㅤLanguages & Database</summary>
+  <summary>⠀⠀⠀⠀Languages & Database⠀⠀⠀⠀</summary>
   <p align="center">
     <a href="https://golang.org/"><img src="https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
     <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
@@ -52,7 +52,7 @@
 </details></p>
 
 <p align="center"><details>
-  <summary>ㅤㅤㅤSoftwares & Services</summary>
+  <summary>⠀⠀⠀⠀Softwares & Services⠀⠀⠀⠀</summary>
   <p align="center">
     <a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/></a>
     <a href="https://affinity.serif.com/"><img src="https://img.shields.io/badge/Affinity-222324.svg?style=for-the-badge&logo=Affinity&logoColor=white" alt="Affinity"/></a>
@@ -63,7 +63,7 @@
 </details></p>
 
 <p align="center"><details>
-  <summary>ㅤㅤㅤSystems</summary>
+  <summary>⠀⠀⠀⠀Systems⠀⠀⠀⠀</summary>
   <p align="center">
     <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
     <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a>
