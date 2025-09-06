@@ -26,7 +26,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=800&lines=ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=100&color=00FF00&center=true&width=800&lines=ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=00FF00&center=true&width=600&lines=ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡&repeat=true)
 
 <p align="center">
   <a href="https://developers.google.com/profile/u/mrkaviyaa"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" style="display:inline-block;margin:0;" alt="Google Dev"/></a>
