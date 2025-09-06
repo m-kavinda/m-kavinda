@@ -9,7 +9,7 @@
        alt="Now Playing" 
        width="480" 
        height="270" 
-       style="display:block; margin-bottom:20px;"/>
+       style="display:block; margin-bottom:20px; border-radius:15px;"/>
 </a>
 
 
