@@ -28,9 +28,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=00FF00&center=true&width=600&lines=ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ&repeat=true)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=rgb(0,255,0)&center=true&width=600&lines=ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ&repeat=true)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=00FF00&center=true&width=600&lines=ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ&repeat=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=00FF00&center=true&width=800&lines=ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ;ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ;ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ)
 
 
 <p align="center">
