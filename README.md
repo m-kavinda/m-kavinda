@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Fira+Code&size=20&color=00FF00&center=true&width=350" alt="Animated Hacker Text"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Fira+Code&size=20&color=FFFFFF&center=true&width=350&duration=4000" alt="Animated White Text"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%99%A5%EF%B8%8F+Software+Developer+%7C+Content+Creator&font=Fira+Code&size=18&color=00FF00&center=true&width=400" alt="Animated Subtitle"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%99%A5%EF%B8%8F+Software+Developer+%7C+Content+Creator&font=Fira+Code&size=18&color=FFFFFF&center=true&width=400&duration=4000" alt="Animated White Subtitle"/>
 </p>
 
 
