@@ -3,10 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Fira+Code&size=32&color=00FF00&center=true&width=500" alt="Animated Hacker Text"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Fira+Code&size=20&color=00FF00&center=true&width=350" alt="Animated Hacker Text"/>
 </p>
 
-<p align="center">♥️ Software Developer | Content Creator</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%99%A5%EF%B8%8F+Software+Developer+%7C+Content+Creator&font=Fira+Code&size=18&color=00FF00&center=true&width=400" alt="Animated Subtitle"/>
+</p>
 
 
 <p align="center">
