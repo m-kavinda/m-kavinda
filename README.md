@@ -1,4 +1,4 @@
-![Animated Icon](./animated-icon.gif)
+<a target="_blank" href="https://icons8.com/icon/v551nqGeHhGn/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)
 
