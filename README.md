@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="dp.png" width="150" alt="m-kavinda" style="border-radius:50%;">
+  <img src="dp.png" width="150" style="border-radius:50%;">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Fira+Code&size=20&color=FFFFFF&center=true&width=350&duration=4000" alt="Animated White Text"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Ubuntu+Mono&size=20&color=FFFFFF&center=true&width=350&duration=10000" alt="Animated White Text"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%99%A5%EF%B8%8F+Software+Developer+%7C+Content+Creator&font=Fira+Code&size=18&color=FFFFFF&center=true&width=400&duration=4000" alt="Animated White Subtitle"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%7C+Content+Creator&font=Ubuntu+Mono&size=18&color=FFFFFF&center=true&width=400&duration=10000" alt="Animated White Subtitle"/>
 </p>
 
 
