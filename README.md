@@ -9,7 +9,7 @@
 </a>
 
 
-.ılılılllıılılıllllıılılllılılılılllıılılıllllıılılllıllıılılılllıılılıllllıılılllıllıılılılllıılılıllllıılılllıllıılılılllıılılıllllıılılllıllıılılıllllllıllı.
+.ılılılllıılılıllllıılılllılılılılllıılılıllllıılılllıllıılılılllıılılıllllıılılllıllıılılılllıılılıllllıılılllıllıılılılllıılılıllllıılılllılllllıllı.
 
 
 
