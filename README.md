@@ -1,16 +1,9 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="120" alt="Profile Image" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/208386765?v=4" width="150" alt="m-kavinda" style="border-radius:50%;">
 </p>
 
-<h1 align="center">Hi 👋, I'm mr.kaviyaa</h1>
+<h1 align="center">Hi 👋, I'm m-kavinda</h1>
 <p align="center">♥️ Software Developer | Content Creator</p>
-
-<p align="center">
-  [![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/mrkaviyaa)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg)
-  [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mkaviyaa)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-kavinda)
-</p>
 
 
 <p align="center">
