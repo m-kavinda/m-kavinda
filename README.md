@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/208386765?v=4" width="150" alt="m-kavinda" style="border-radius:50%;">
+  <img src="dp.png" width="150" alt="m-kavinda" style="border-radius:50%;">
 </p>
 
-<h1 align="center">Hi 👋, I'm m-kavinda</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+m-kavinda&font=Fira+Code&size=32&color=00FF00&center=true&width=500" alt="Animated Hacker Text"/>
+</p>
+
 <p align="center">♥️ Software Developer | Content Creator</p>
 
 
