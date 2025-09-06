@@ -1,22 +1,4 @@
 <p align="center">
-  <a href="https://youtube.com/watch?v=iBlpUYogVTw" target="_blank">
-    <img src="thumbnail.png" 
-         alt="Now Playing" 
-         width="480" 
-         height="270"
-         style="border-radius:15px;"/>
-  </a>
-</p>
-
-<p align="center">
-  [![Now Playing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=00FF00&center=true&width=500&lines=ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ;Kiyadun+Premaya+is+playing...;ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ)](https://youtube.com/watch?v=iBlpUYogVTw)
-</p>
-
-
-
-
-
-<p align="center">
   <img src="icons8-github-100.png" alt="GitHub Logo" width="100" height="100" />
 </p>
 
