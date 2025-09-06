@@ -5,11 +5,11 @@
 [![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
 <a href="https://youtube.com/watch?v=iBlpUYogVTw" target="_blank">
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczNp2UpUcXj_bcG3XdEeHpJWItwYBvRYcRr9IEx4wqUn_5VXhQQKJrPj7t4BXIR5syXiZTUilzMBCsoGdTJ-ET47ThGVZ-9uv0Lj5g4MzyQ4IVyat9P1ox_dbIV5tyQKPWfAIbFUeOUdLi4Wx3pMMe0=w1080-h607-s-no-gm?authuser=0" 
+  <img src="thumbnail.png" 
        alt="Now Playing" 
        width="480" 
-       height="270" 
-       style="display:block; margin-bottom:20px; border-radius:15px;"/>
+       height="270"
+       style="display:block; margin-bottom:20px;"/>
 </a>
 
 
