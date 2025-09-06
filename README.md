@@ -1,4 +1,59 @@
-![Animated Icon](./animated-icon.svg))
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" aria-labelledby="title desc" role="img">
+  <title id="title">Animated Icon</title>
+  <desc id="desc">Pulsing + slight rotate animation applied to the provided PNG icon.</desc>
+
+  <defs>
+    <!-- soft glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- subtle drop shadow -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- group for transforming the image around its center (50,50) -->
+  <g transform="translate(0,0)" filter="url(#shadow)">
+    <!-- image element referencing your provided PNG -->
+    <image
+      href="https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000"
+      x="0" y="0" width="100" height="100"
+      filter="url(#glow)"
+      preserveAspectRatio="xMidYMid meet" />
+
+    <!-- scale (pulse) animation -->
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="scale"
+      from="1 1"
+      to="1.12 1.12"
+      begin="0s"
+      dur="1s"
+      repeatCount="indefinite"
+      additive="sum"
+      fill="freeze"
+      keyTimes="0;0.5;1"
+      values="1 1;1.12 1.12;1 1" />
+
+    <!-- subtle rotate back-and-forth -->
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="0 50 50;8 50 50;0 50 50"
+      begin="0s"
+      dur="3.2s"
+      repeatCount="indefinite"
+      additive="sum" />
+  </g>
+</svg>
 
 ![Cool Animation](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
