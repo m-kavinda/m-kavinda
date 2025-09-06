@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/m-kavinda/m-kavinda/main/animated-icon.gif" width="100"/>
+![Animated Icon](./animated-icon.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)
 
