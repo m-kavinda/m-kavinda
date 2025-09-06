@@ -1,4 +1,4 @@
-![GitHub Logo](icons8-github-100.png)
+                          ![GitHub Logo](icons8-github-100.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)
 
