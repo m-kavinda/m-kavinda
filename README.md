@@ -1,6 +1,6 @@
 ![GitHub Logo](icons8-github-100.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=800&lines=Now+Playing)
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true)
 
@@ -14,7 +14,9 @@
 
 [![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
-
+<a href="https://www.youtube.com/watch?v=iBlpUYogVTw" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&width=800&lines=Now+Playing" alt="Now Playing"/>
+</a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=800&lines=ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡)
 
