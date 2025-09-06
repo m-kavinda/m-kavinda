@@ -1,4 +1,4 @@
-![GitHub Animation](output-onlinegiftools (1).gif)
+![GitHub Animation](output-onlinegiftools.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)
 
