@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Animated Icon](./animated-icon.svg))
 
 ![Cool Animation](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
