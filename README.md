@@ -3,11 +3,10 @@
 [![Now Playing](https://img.youtube.com/vi/iBlpUYogVTw/hqdefault.jpg)](https://www.youtube.com/watch?v=iBlpUYogVTw)
 
 <a href="https://www.youtube.com/watch?v=iBlpUYogVTw" target="_blank">
-  <div style="width:300px; height:170px; overflow:hidden;">
-    <img src="https://img.youtube.com/vi/iBlpUYogVTw/hqdefault.jpg" 
-         alt="Now Playing" 
-         style="width:100%; height:100%; object-fit:cover;"/>
-  </div>
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczNp2UpUcXj_bcG3XdEeHpJWItwYBvRYcRr9IEx4wqUn_5VXhQQKJrPj7t4BXIR5syXiZTUilzMBCsoGdTJ-ET47ThGVZ-9uv0Lj5g4MzyQ4IVyat9P1ox_dbIV5tyQKPWfAIbFUeOUdLi4Wx3pMMe0=w1080-h607-s-no-gm?authuser=0" 
+       alt="Now Playing" 
+       width="300" 
+       height="170"/>
 </a>
 
 [![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/mrkaviyaa)
