@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 ![Cool Animation](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)
