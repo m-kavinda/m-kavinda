@@ -10,7 +10,7 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg)
   [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mkaviyaa)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-kavinda)
-</p>
+</p
 
 
 <p align="center">
