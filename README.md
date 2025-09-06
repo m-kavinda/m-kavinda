@@ -40,38 +40,6 @@
 </p>
 
 
-<p align="center"><details>
-  <summary>ㅤㅤㅤLanguages & Database</summary>
-  <p align="center">
-    <a href="https://golang.org/"><img src="https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23f0dc55.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
-  </p>
-</details></p>
-
-<p align="center"><details>
-  <summary>ㅤㅤㅤSoftwares & Services</summary>
-  <p align="center">
-    <a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/></a>
-    <a href="https://affinity.serif.com/"><img src="https://img.shields.io/badge/Affinity-222324.svg?style=for-the-badge&logo=Affinity&logoColor=white" alt="Affinity"/></a>
-    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23f25425.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-    <a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Gimp-605949?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp"/></a>
-    <a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-fdb008?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/></a>
-  </p>
-</details></p>
-
-<p align="center"><details>
-  <summary>ㅤㅤㅤSystems</summary>
-  <p align="center">
-    <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
-    <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a>
-    <a href="https://getfedora.org/"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/></a>
-    <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-080808.svg?style=for-the-badge&logo=GNOME&logoColor=white" alt="Gnome"/></a>
-    <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-087cd5?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
-  </p>
-</details></p>
 
 
 <div align="center">
