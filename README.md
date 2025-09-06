@@ -1,6 +1,9 @@
 ![GitHub Logo](icons8-github-100.png)
 
 
+<p align="center">
+  <img src="icons8-github-100.png" alt="GitHub Logo" width="100" height="100" />
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true)
 
