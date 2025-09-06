@@ -1,3 +1,4 @@
+[![Now Playing](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/animated_player.gif)](https://www.youtube.com/watch?v=syoslCy-q1o)
 [![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
 [![Now Playing](https://img.youtube.com/vi/iBlpUYogVTw/hqdefault.jpg)](https://www.youtube.com/watch?v=iBlpUYogVTw)
