@@ -86,8 +86,3 @@ Feel free to fork, remix, or just observe in silence.
 No stars needed—just resonance.
 
 </div>
-
-
-<p align="center">
-  <img src="dp.png" width="150" style="border-radius:50%;">
-</p>
