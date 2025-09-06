@@ -16,7 +16,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&lines=ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡;ﮩ٨ـﮩﮩ٨ـ♡)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=500&lines=%E2%BF%A9%DB%B8%E0%AC%92%E2%80%8C%E2%BF%A9%DB%B9%DB%B8%E0%AC%92%E2%80%8C%E2%99%A1;%E2%BF%A9%DB%B8%E0%AC%92%E2%80%8C%E2%BF%A9%DB%B9%DB%B8%E0%AC%92%E2%80%8C%E2%99%A1;%E2%BF%A9%DB%B8%E0%AC%92%E2%80%8C%E2%BF%A9%DB%B9%DB%B8%E0%AC%92%E2%80%8C%E2%99%A1;%E2%BF%A9%DB%B8%E0%AC%92%E2%80%8C%E2%BF%A9%DB%B9%DB%B8%E0%AC%92%E2%80%8C%E2%99%A1)
 
 
 
