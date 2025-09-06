@@ -43,19 +43,19 @@
 <details>
   <summary>Languages & Database</summary>
 
-<div align="center">
+  <div align="center">
 
-[![Go](https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) 
-[![JavaScript](https://img.shields.io/badge/javascript-%23f0dc55.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+  [![Go](https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) 
+  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) 
+  [![JavaScript](https://img.shields.io/badge/javascript-%23f0dc55.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
+  [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) 
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
-[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/) 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![SQLite](https://img.shields.io/badge/sqlite-%2308425c.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+  [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/) 
+  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+  [![SQLite](https://img.shields.io/badge/sqlite-%2308425c.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-</div>
+  </div>
 </details>
 
 <div align="center">
