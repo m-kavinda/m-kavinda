@@ -3,7 +3,6 @@
   <img src="icons8-github-100.png" alt="GitHub Logo" width="100" height="100" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
@@ -16,6 +15,17 @@
        height="270"
        style="display:block; margin-bottom:20px;"/>
 </a>
+
+<p align="center">
+  <a href="https://youtube.com/watch?v=iBlpUYogVTw" target="_blank">
+    <img src="thumbnail.png" 
+         alt="Now Playing" 
+         width="360" 
+         height="203"
+         style="display:block; margin-bottom:20px; border-radius:12px;"/>
+  </a>
+</p>
+
 
 [![YouTube Now Playing: Kiyadun premaya](https://img.shields.io/badge/YouTube%20Now%20Playing-Kiyadun%20premaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=syoslCy-q1o)
 
