@@ -73,25 +73,6 @@
 </details></p>
 
 
-<p align="center">
-
-### <span style="color:green">🌐 Languages & Database</span>
-
-[![Go](https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) 
-
-### <span style="color:green">🛠 Softwares & Services</span>
-
-[![Adobe](https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/) 
-[![Figma](https://img.shields.io/badge/figma-%23f25425.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
-
-### <span style="color:green">🖥 Systems</span>
-
-[![Android](https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) 
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
-
-</p>
-
 
 <div align="center">
 
