@@ -1,3 +1,5 @@
+![Image to STL Preview](ImageToStl.com.gif)
+
 
 <p align="center">
   <a href="https://github.com/m-kavinda">
