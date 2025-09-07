@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="girl.png" alt="Girl Image" />
+</p>
+
+<p align="center">
   <a href="https://github.com/m-kavinda">
     <img src="icons8-github-100.png" alt="GitHub Icon" width="100"/>
   </a>
