@@ -4,12 +4,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/m-kavinda">
-    <img src="icons8-github-100.png" alt="GitHub Icon" width="100"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
 </p>
 
