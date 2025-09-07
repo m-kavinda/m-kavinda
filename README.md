@@ -1,43 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Music Player</title>
-<style>
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background: #121212;
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
-  .player {
-    text-align: center;
-  }
-  audio {
-    outline: none;
-    width: 300px;
-    margin-top: 20px;
-  }
-  h1 {
-    color: white;
-    font-size: 24px;
-  }
-</style>
-</head>
-<body>
-  <div class="player">
-    <h1>Now Playing: Kiyadun Premaya</h1>
-    <audio controls>
-      <source src="Kiyadun-Premaya.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</body>
-</html>
+<iframe 
+    src="https://yourusername.github.io/music-player/" 
+    width="300" 
+    height="80" 
+    frameborder="0" 
+    allow="autoplay; encrypted-media" 
+    allowfullscreen>
+</iframe>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
