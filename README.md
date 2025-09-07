@@ -1,4 +1,6 @@
-![Image to STL Preview](ImageToStl.com.gif)
+<p align="center">
+  <img src="ImageToStl.com.gif" alt="Image to STL Preview">
+</p>
 
 
 <p align="center">
