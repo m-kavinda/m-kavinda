@@ -1,11 +1,4 @@
-<iframe 
-    src="https://yourusername.github.io/music-player/" 
-    width="300" 
-    height="80" 
-    frameborder="0" 
-    allow="autoplay; encrypted-media" 
-    allowfullscreen>
-</iframe>
+[![Play Kiyadun Premaya](music.gif)](https://m-kavinda.github.io/music-player/)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
