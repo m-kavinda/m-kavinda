@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="girl.png" alt="Girl Image" />
-</p>
 
 <p align="center">
   <a href="https://github.com/m-kavinda">
