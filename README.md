@@ -1,16 +1,43 @@
-[▶️ Play Kiyadun-Premaya](Kiyadun-Premaya.mp3)
-
-<p align="center">
-  <audio controls>
-    <source src="Kiyadun-Premaya.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</p>
-
-<p align="center">
-  <img src="icons8-github-100.png" alt="GitHub Logo" width="100" height="100" />
-</p>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Music Player</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #121212;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  .player {
+    text-align: center;
+  }
+  audio {
+    outline: none;
+    width: 300px;
+    margin-top: 20px;
+  }
+  h1 {
+    color: white;
+    font-size: 24px;
+  }
+</style>
+</head>
+<body>
+  <div class="player">
+    <h1>Now Playing: Kiyadun Premaya</h1>
+    <audio controls>
+      <source src="Kiyadun-Premaya.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</body>
+</html>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
