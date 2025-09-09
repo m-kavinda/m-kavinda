@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
 
 # My GitHub Profile 🖤🔥
 
@@ -15,9 +15,7 @@ Welcome to my awesome space!
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-kavinda&show_icons=true&theme=radical)](https://github.com/m-kavinda)
 
----
-
-</div>
+</p>
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
