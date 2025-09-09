@@ -133,3 +133,7 @@ No stars needed—just resonance.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-kavinda&show_icons=true&theme=radical" alt="Mr.Kavinda's GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-kavinda" alt="Profile Views"/>
+</p>
