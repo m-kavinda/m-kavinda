@@ -124,8 +124,6 @@ No stars needed—just resonance.
 </div>
 
 <p align="center">
-
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds extra space between the badges -->
   <a href="https://chat.openai.com/?prompt=Tell+me+about+Mr.Kavinda">
     <img src="https://img.shields.io/badge/Ask-ChatGPT-28a745?style=for-the-badge&logo=openai&logoColor=white" alt="Ask ChatGPT about me"/>
   </a>
