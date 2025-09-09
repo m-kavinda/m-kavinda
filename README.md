@@ -1,25 +1,11 @@
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size:28px; color:#28a745; font-weight:bold;">
-    🖤 Welcome! Explore my world of code, creativity, and innovation! 🖤
-  </marquee>
-</p>
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size:28px; color:#28a745; font-weight:bold;">
-    🖤 Welcome! Explore my world of code, creativity, and innovation! 🖤
-  </marquee>
-</p>
-
-
-<p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=🖤+Welcome!+Explore+my+world+of+code,+creativity,+and+innovation!+🖤&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <a href="https://youtube.com/watch?v=iBlpUYogVTw" target="_blank">
