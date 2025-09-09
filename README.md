@@ -30,15 +30,20 @@
 
 
 <p align="center">
-  <a href="https://developers.google.com/profile/u/mrkaviyaa"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" style="display:inline-block;margin:0;" alt="Google Dev"/></a>
-  <a href="https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" style="display:inline-block;margin:0;" alt="Spotify"/></a>
-  <a href="https://x.com/mkaviyaa"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" style="display:inline-block;margin:0;" alt="X"/></a>
-  <a href="https://www.tiktok.com/@mkaviyaa"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" style="display:inline-block;margin:0;" alt="TikTok"/></a>
-  <a href="https://www.instagram.com/m.r.kaviyaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block;margin:0;" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/m.r.kaviyaa/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" style="display:inline-block;margin:0;" alt="Facebook"/></a>
-  <a href="https://youtube.com/@mr-kaviyaa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="display:inline-block;margin:0;" alt="YouTube"/></a>
-  <a href="https://wa.me/94705606337"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="display:inline-block;margin:0;" alt="WhatsApp"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Social%20Media-28a745?style=for-the-badge&logoColor=white" alt="Social Media"/></a>
 </p>
+
+<p align="center">
+  <a href="https://developers.google.com/profile/u/mrkaviyaa"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/></a>
+  <a href="https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+  <a href="https://x.com/mkaviyaa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.tiktok.com/@mkaviyaa"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.instagram.com/m.r.kaviyaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/m.r.kaviyaa/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://youtube.com/@mr-kaviyaa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://wa.me/94705606337"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Languages%20&%20Database-28a745?style=for-the-badge&logoColor=white" alt="Languages & Database"/></a>
