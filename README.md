@@ -131,3 +131,9 @@ No stars needed—just resonance.
     <img src="https://img.shields.io/badge/Ask-ChatGPT-28a745?style=for-the-badge&logo=openai&logoColor=white" alt="Ask ChatGPT about me"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:g.y.d.m.kavinda@gmail.com">
+    <img src="https://img.shields.io/badge/Email_|_Ask_ChatGPT-28a745?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email | Ask ChatGPT"/>
+  </a>
+</p>
