@@ -1,4 +1,10 @@
 <p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size:28px; color:#28a745; font-weight:bold;">
+    🖤 Welcome! Explore my world of code, creativity, and innovation! 🖤
+  </marquee>
+</p>
+
+<p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size:28px; color:#28a745; font-weight:bold;">
     🖤 Welcome! Explore my world of code, creativity, and innovation! 🖤
   </marquee>
