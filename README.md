@@ -4,9 +4,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🖤+Welcome!+Explore+my+world+of+code,+creativity,+and+innovation!+🖤&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=🖤+Welcome!+Explore+my+world+of+code,+creativity,+and+innovation!+🖤&font=Fira+Code&size=20&color=00FF00&center=true&width=600" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <a href="https://youtube.com/watch?v=iBlpUYogVTw" target="_blank">
