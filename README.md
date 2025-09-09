@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=🖤+Welcome!+Explore+my+world+of+code,+creativity,+and+innovation!+🖤&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <a href="https://youtube.com/watch?v=iBlpUYogVTw" target="_blank">
     <img src="thumbnail.png" 
