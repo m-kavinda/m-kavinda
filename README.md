@@ -4,9 +4,7 @@
 
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size:28px; color:#28a745; font-weight:bold;">
-    ♡ Welcome! Explore my world of code, creativity, and innovation! ♡
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=♡+Welcome!+Explore+my+world+of+code,+creativity,+and+innovation!+♡&font=Fira+Code&size=24&color=28a745&center=true&width=600&duration=8000" alt="Typing SVG" />
 </p>
 
 
