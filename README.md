@@ -1,4 +1,3 @@
-![Mr.Kavinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-kavinda&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
@@ -128,4 +127,9 @@ No stars needed—just resonance.
   <a href="https://chat.openai.com/?prompt=Tell+me+about+Mr.Kavinda">
     <img src="https://img.shields.io/badge/Ask-ChatGPT-28a745?style=for-the-badge&logo=openai&logoColor=white" alt="Ask ChatGPT about me"/>
   </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-kavinda&show_icons=true&theme=radical" alt="Mr.Kavinda's GitHub stats" />
 </p>
