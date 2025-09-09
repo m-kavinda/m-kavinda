@@ -1,21 +1,4 @@
-<p align="center">
 
-# My GitHub Profile 🖤🔥
-
-Welcome to my awesome space!  
-[![Fun Badge](https://img.shields.io/badge/Fun-Level-🔥-red?style=for-the-badge)](https://github.com/m-kavinda)
-
----
-
-## 💻 Most Used Languages
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kavinda&layout=compact&theme=radical)](https://github.com/m-kavinda)
-
----
-
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-kavinda&show_icons=true&theme=radical)](https://github.com/m-kavinda)
-
-</p>
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
