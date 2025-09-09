@@ -1,8 +1,4 @@
-<div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email-Me-28a745?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.y.d.m.kavinda@gmail.com)
-
-</div>
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
@@ -90,6 +86,12 @@
 ## 📫 Connect
 Feel free to fork, remix, or just observe in silence.  
 No stars needed—just resonance.
+
+</div>
+
+<div align="center">
+
+[![Email Me](https://img.shields.io/badge/Email-Me-28a745?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.y.d.m.kavinda@gmail.com)
 
 </div>
 
