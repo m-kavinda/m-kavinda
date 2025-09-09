@@ -53,16 +53,18 @@
 </p>
 
 
-<p align="center"><details>
-  <summary>⠀⠀⠀⠀Softwares & Services⠀⠀⠀⠀</summary>
-  <p align="center">
-    <a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/></a>
-    <a href="https://affinity.serif.com/"><img src="https://img.shields.io/badge/Affinity-222324.svg?style=for-the-badge&logo=Affinity&logoColor=white" alt="Affinity"/></a>
-    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23f25425.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-    <a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Gimp-605949?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp"/></a>
-    <a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-fdb008?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/></a>
-  </p>
-</details></p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Softwares%20&%20Services-28a745?style=for-the-badge&logoColor=white" alt="Softwares & Services"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/></a>
+  <a href="https://affinity.serif.com/"><img src="https://img.shields.io/badge/Affinity-222324.svg?style=for-the-badge&logo=Affinity&logoColor=white" alt="Affinity"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23f25425.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+  <a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Gimp-605949?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp"/></a>
+  <a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-fdb008?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/></a>
+</p>
+
 
 <p align="center"><details>
   <summary>⠀⠀⠀⠀Systems⠀⠀⠀⠀</summary>
