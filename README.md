@@ -1,3 +1,7 @@
+<div style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Mr.Kavinda's+World;Explore+my+projects+and+creativity&font=Fira+Code&size=24&color=00FF00&center=true" alt="Typing Animation" />
+</div>
+
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
