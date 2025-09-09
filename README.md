@@ -1,3 +1,11 @@
+<div align="center">
+
+<a href="https://chat.openai.com/?prompt=Tell+me+about+Mr.Kavinda">
+<img src="https://img.shields.io/badge/Ask-ChatGPT-28a745?style=for-the-badge&logo=openai&logoColor=white" alt="Ask ChatGPT about me"/>
+</a>
+
+</div>
+
 <center>
 
 [![Ask ChatGPT about me](https://img.shields.io/badge/Ask-ChatGPT-28a745?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/?prompt=Tell+me+about+Mr.Kavinda)
