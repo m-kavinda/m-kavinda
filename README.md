@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <span style="color:#28a745; font-size:28px; font-weight:bold;">Languages & Database</span>
+  <a href="#"><img src="https://img.shields.io/badge/Languages%20&%20Database-28a745?style=for-the-badge&logoColor=white" alt="Languages & Database"/></a>
 </p>
 
 <p align="center">
@@ -51,6 +51,7 @@
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
 </p>
+
 
 <p align="center"><details>
   <summary>⠀⠀⠀⠀Softwares & Services⠀⠀⠀⠀</summary>
