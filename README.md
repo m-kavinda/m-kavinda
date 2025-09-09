@@ -1,8 +1,4 @@
-<div align="center">
 
-[![Translate README](https://img.shields.io/badge/Translate-🌐-blue?style=for-the-badge&logo=google&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=si&u=https://github.com/m-kavinda/REPO_NAME/blob/main/README.md)
-
-</div>
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
