@@ -43,6 +43,11 @@
 
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=;&lines=;&lines=;&lines=;&lines=;&lines=;&font=Fira+Code&size=24&color=28a745&center=true&width=800&duration=8000" alt="Blank Typing SVG" />
+</p>
+
+
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Languages%20&%20Database-28a745?style=for-the-badge&logoColor=white" alt="Languages & Database"/></a>
 </p>
 
@@ -52,6 +57,11 @@
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23f0dc55.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=;&lines=;&lines=;&lines=;&lines=;&lines=;&font=Fira+Code&size=24&color=28a745&center=true&width=800&duration=8000" alt="Blank Typing SVG" />
 </p>
 
 
