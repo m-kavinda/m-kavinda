@@ -40,16 +40,18 @@
   <a href="https://wa.me/94705606337"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="display:inline-block;margin:0;" alt="WhatsApp"/></a>
 </p>
 
-<p align="center"><details>
-  <summary>⠀⠀⠀⠀Languages & Database⠀⠀⠀⠀</summary>
-  <p align="center">
-    <a href="https://golang.org/"><img src="https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23f0dc55.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
-  </p>
-</details></p>
+<p align="center">
+  <span style="font-size:22px; color:#28a745; font-weight:bold;">Languages & Database</span>
+</p>
+
+<p align="center">
+  <a href="https://golang.org/"><img src="https://img.shields.io/badge/go-%2308afd8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23f0dc55.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+</p>
+
 
 <p align="center"><details>
   <summary>⠀⠀⠀⠀Softwares & Services⠀⠀⠀⠀</summary>
