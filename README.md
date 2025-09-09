@@ -37,8 +37,8 @@
   <a href="https://www.instagram.com/m.r.kaviyaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block;margin:0;" alt="Instagram"/></a>
   <a href="https://www.facebook.com/m.r.kaviyaa/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" style="display:inline-block;margin:0;" alt="Facebook"/></a>
   <a href="https://youtube.com/@mr-kaviyaa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="display:inline-block;margin:0;" alt="YouTube"/></a>
+  <a href="https://wa.me/94705606337"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="display:inline-block;margin:0;" alt="WhatsApp"/></a>
 </p>
-
 
 <p align="center"><details>
   <summary>⠀⠀⠀⠀Languages & Database⠀⠀⠀⠀</summary>
