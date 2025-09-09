@@ -1,5 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/m-kavinda?style=social)
-![Top Language](https://img.shields.io/github/languages/top/m-kavinda/repo)
+![Mr.Kavinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-kavinda&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
