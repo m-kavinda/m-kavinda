@@ -139,5 +139,5 @@ No stars needed—just resonance.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-kavinda&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=m-kavinda&theme=radical&row=1&column=6" alt="GitHub Trophy"/>
 </p>
