@@ -1,3 +1,20 @@
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="https://chat.openai.com/" target="_blank" style="
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 24px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+      transition: transform 0.2s, background-color 0.2s;
+  " onmouseover="this.style.backgroundColor='#45a049'; this.style.transform='scale(1.05)';" onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)';">
+    Just hit up ChatGPT if you wanna know about me
+  </a>
+</div>
+
 [![Ask ChatGPT about me](https://img.shields.io/badge/Ask-ChatGPT-28a745?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/?prompt=Tell+me+about+Mr.Kavinda)
 
 <p align="center">
