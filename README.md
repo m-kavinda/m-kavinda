@@ -68,7 +68,9 @@
 </p>
 
 
-lines=Line1;;Line2
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=;&lines=;&lines=;&lines=;&lines=;&lines=;&font=Fira+Code&size=24&color=28a745&center=true&width=800&duration=8000" alt="Blank Typing SVG" />
+</p>
 
 
 <p align="center">
