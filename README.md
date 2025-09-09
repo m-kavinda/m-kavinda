@@ -1,4 +1,8 @@
-[Ask ChatGPT about me](https://chat.openai.com/?prompt=Tell+me+about+Mr.Kavinda)
+<p align="center">
+
+[![Ask ChatGPT about me](https://img.shields.io/badge/Ask-ChatGPT-28a745?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/?prompt=Tell+me+about+Mr.Kavinda)
+
+</p>
 
 <p align="center">
   <img src="ImageToStl.com.gif" alt="Image to STL Preview">
