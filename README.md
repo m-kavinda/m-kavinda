@@ -66,17 +66,17 @@
 </p>
 
 
-<p align="center"><details>
-  <summary>⠀⠀⠀⠀Systems⠀⠀⠀⠀</summary>
-  <p align="center">
-    <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
-    <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a>
-    <a href="https://getfedora.org/"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/></a>
-    <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-080808.svg?style=for-the-badge&logo=GNOME&logoColor=white" alt="Gnome"/></a>
-    <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-087cd5?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
-  </p>
-</details></p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Systems-28a745?style=for-the-badge&logoColor=white" alt="Systems"/></a>
+</p>
 
+<p align="center">
+  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
+  <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a>
+  <a href="https://getfedora.org/"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/></a>
+  <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-080808.svg?style=for-the-badge&logo=GNOME&logoColor=white" alt="Gnome"/></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-087cd5?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
+</p>
 
 
 <div align="center">
